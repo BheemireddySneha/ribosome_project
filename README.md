@@ -1,6 +1,7 @@
 # ribosome_project
 Code pertaining to Ribosome project
 
+# description
 1. amn_rbpA.py -> for NMA calculations
 2. b-fact -> plotting b-factors and coloring PDB accordingly
 3. compare_corr -> comparing correlation values
